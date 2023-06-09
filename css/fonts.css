@@ -1,0 +1,10 @@
+
+@font-face {
+  font-family: Inter;
+  src: local('Inter');
+  src: url('../fonts/Inter-VariableFont_slnt\,wght.woff2') format('woff2'),
+     url('../fonts/Inter-VariableFont_slnt\,wght.woff') format('woff');
+  font-style: normal;
+  font-display: swap;
+}
+
